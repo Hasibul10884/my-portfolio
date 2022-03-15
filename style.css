@@ -54,6 +54,7 @@ section{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
+    
 }
 .experience-area{
     background-image: url("image/exp-bg.png");
@@ -67,5 +68,7 @@ section{
 }
 #mern{
 
-    
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg,rgb(153, 153, 229), cyan)  ;
+    border-image-slice: 1;
 }
