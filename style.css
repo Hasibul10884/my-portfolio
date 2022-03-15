@@ -7,7 +7,9 @@ h1{
 
     font-size: 50px;
 }
-
+h2{
+    font-size: 40px;
+}
 .name-highlight{
 color: palevioletred;
 
@@ -23,12 +25,16 @@ color: palevioletred;
 .half-width img{
     width: 100%;
 }
+p{
+    color: dimgray;
+}
 .top-banner{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 
 .link-button{
@@ -38,4 +44,9 @@ section{
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 500;
+}
+.dream-area{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
