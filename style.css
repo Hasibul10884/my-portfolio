@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+
 }
 h1{
 
@@ -45,6 +46,7 @@ section{
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 500;
+    isolation: isolate;
 }
 .dream-area{
     background-image: url("image/dream-bg.png");
@@ -67,6 +69,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(45deg, rgb(230, 110, 150) , rgb(233, 170, 182));
     border-image-slice: 1;
+    
 }
 #mern{
 
